@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-gb-pages/static/js/main.22de4125.js",
-    "index.html": "/react-gb-pages/index.html",
-    "main.22de4125.js.map": "/react-gb-pages/static/js/main.22de4125.js.map"
+    "main.js": "/react-gh-pages/static/js/main.cdbcbd94.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.cdbcbd94.js.map": "/react-gh-pages/static/js/main.cdbcbd94.js.map"
   },
   "entrypoints": [
-    "static/js/main.22de4125.js"
+    "static/js/main.cdbcbd94.js"
   ]
 }
